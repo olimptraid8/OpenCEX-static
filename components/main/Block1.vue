@@ -3,8 +3,8 @@
     <div class="content">
       <div class="grid grid-cols-2 block1">
         <div class="block1-left">
-          <h1>Start Your Crypto Business</h1>
-          <p class="block-text">Trade crypto in the easiest and safest way!</p>
+          <h1>Cryptocurrency easy, friendly and safe</h1>
+          <p class="block-text">Buy, sell & trade Bitcoin, Ethereum and many other coins</p>
           <div class="course">
             <img src="/img/btc.svg" class="inline-block" />
             <span>BTC Price: {{ course.toFixed(2) }} USDT</span>
